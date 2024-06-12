@@ -44,10 +44,6 @@ class Senha {
             return false;
         }
     }
-
-    forçaSenha() {
-        return 
-    }
 }
 
 const p1 = new Senha('aibic213213');
